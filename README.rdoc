@@ -1,28 +1,12 @@
 == README
+ Weekend long hack-a-thon project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ Goal was to develop tutor application to help
+ benefit students in the local communities.
 
-Things you may want to cover:
+ 3 people worked on this project in one weekend
 
-* Ruby version
+ App connects Teachers of middle schools and grade schools with
+ mentor high school students in the surrounding areas.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+ Link to the site - 
