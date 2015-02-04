@@ -9,4 +9,4 @@
  App connects Teachers of middle schools and grade schools with
  mentor high school students in the surrounding areas.
 
- Link to the site - 
+ Link to the site - http://tutor-connection.herokuapp.com/
